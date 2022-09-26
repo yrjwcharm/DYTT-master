@@ -4409,7 +4409,7 @@ punycode@^2.1.0:
 
 q@^1.4.1:
   version "1.5.1"
-  resolved "https://registry.npmjs.org/q/-/q-1.5.1.tgz#7e32f75b41381291d04611f1bf14109ac00651d7"
+  resolved "https://registry.yarnpkg.com/q/-/q-1.5.1.tgz#7e32f75b41381291d04611f1bf14109ac00651d7"
 
 qs@^6.5.1:
   version "6.6.0"
@@ -5908,6 +5908,6 @@ yargs@^9.0.0:
 
 yazl@^2.4.1:
   version "2.5.1"
-  resolved "https://registry.npmjs.org/yazl/-/yazl-2.5.1.tgz#a3d65d3dd659a5b0937850e8609f22fffa2b5c35"
+  resolved "https://registry.yarnpkg.com/yazl/-/yazl-2.5.1.tgz#a3d65d3dd659a5b0937850e8609f22fffa2b5c35"
   dependencies:
     buffer-crc32 "~0.2.3"
